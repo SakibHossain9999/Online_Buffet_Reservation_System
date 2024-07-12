@@ -1,5 +1,9 @@
 # Online_Buffet_Reservation_System
 
+**Course Name: System Design and Analysis**
+
+**Course Code: CSE471**
+
 Student: Mohammad Sakib Hossain
 
 Supervising Faculty: Esfar E Alam Turzo
