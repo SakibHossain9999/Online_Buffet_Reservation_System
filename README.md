@@ -1,8 +1,8 @@
 # Online_Buffet_Reservation_System
 
-**Course Name: System Design and Analysis**
+**Course Name: Software Engineering**
 
-**Course Code: CSE471**
+**Course Code: CSE470**
 
 Student: Mohammad Sakib Hossain
 
