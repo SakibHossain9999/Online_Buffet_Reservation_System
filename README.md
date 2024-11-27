@@ -1,5 +1,7 @@
 # Online_Buffet_Reservation_System
 
+**Institution: BRAC University**
+
 **Course Name: Software Engineering**
 
 **Course Code: CSE470**
